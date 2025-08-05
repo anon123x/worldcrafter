@@ -1,15 +1,4 @@
-# Copyright (C) 2023, Computer Vision Lab, Seoul National University, https://cv.snu.ac.kr
-#
-# Copyright 2023 LucidDreamer Authors
-#
-# Computer Vision Lab, SNU, its affiliates and licensors retain all intellectual
-# property and proprietary rights in and to this material, related
-# documentation and any modifications thereto. Any use, reproduction,
-# disclosure or distribution of this material and related documentation
-# without an express license agreement from the Computer Vision Lab, SNU or
-# its affiliates is strictly prohibited.
-#
-# For permission requests, please contact robot0321@snu.ac.kr, esw0116@snu.ac.kr, namhj28@gmail.com, jarin.lee@gmail.com.
+
 import os
 import numpy as np
 import torch
